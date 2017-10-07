@@ -1,0 +1,512 @@
+li {
+	display: inline-block;
+	list-style: none; /* nécessaire pour IE7 */
+	margin: 1%;
+}
+
+@media screen and (max-width:800px){
+    table, tr, td{
+        display: block;
+        width: auto!important;
+    }
+    
+}
+
+.Rectangle {
+  width: 110%;
+  height: 60px;
+  background-color: #000000;
+}
+.Shape {
+  width: 16px;
+  height: 15px;
+  background-color: #ffffff;
+}
+.logo {
+  /*width: 124px;*/
+  height: 18px;
+  margin-left: 1%;
+  object-fit: contain;
+}
+.pop-culture {
+  width: 77px;
+  height: 18px;
+  font-family: Aleo;
+  font-size: 15px;
+  text-align: left;
+  color: #ffffff;
+}
+.design {
+  width: 44px;
+  height: 18px;
+  font-family: Aleo;
+  font-size: 15px;
+  text-align: left;
+  color: #ffffff;
+}
+.photography {
+  width: 87px;
+  height: 18px;
+  font-family: Aleo;
+  font-size: 15px;
+  text-align: left;
+  color: #ffffff;
+}
+.about-us {
+  width: 57px;
+  height: 18px;
+  font-family: Aleo;
+  font-size: 15px;
+  text-align: left;
+  color: #ffffff;
+}
+.ic_facebook_connect {
+  width: 18px;
+  height: 18px;
+  object-fit: contain;
+  background-color: #ffffff;
+}
+.connect-with-Faceboo {
+  width: 155px;
+  height: 18px;
+  font-family: Roboto;
+  font-size: 15px;
+  text-align: left;
+  color: #ffffff;
+}
+
+
+
+header {
+  width: 100%;
+  height: 576px;
+  object-fit: contain;
+}
+.Discover-smart-news {
+  width: 570px;
+  height: 144px;
+  font-family: Aleo;
+  font-size: 6vw;
+  font-weight: bold;
+  text-align: center;
+  color: #ffffff;
+  /*margin: auto;*/
+}
+
+
+.Desktop {
+  width: 92%;
+  /*height: 2166px;*/
+  margin-bottom: 30px;
+  background-color: #ffffff;
+}
+.Mask {
+  width: 110%;
+  height: 370px;
+  background-color: #d8d8d8;
+}
+.pexels-photo-509780 {
+  width: 100%;
+  height: 576px;
+}
+.Latest-news {
+  width: 217px;
+  height: 48px;
+  font-family: Aleo;
+  font-size: 40px;
+  font-weight: bold;
+  text-align: center;
+  color: #000000;
+}
+.Image {
+  width: 450px;
+  height: 339px;
+  object-fit: contain;
+}
+.Stranger-Things-2-Am {
+  width: 450px;
+  height: 80px;
+  font-family: Aleo;
+  font-size: 30px;
+  font-weight: bold;
+  line-height: 1.33;
+  text-align: left;
+  color: #000000;
+}
+.La-deuxime-saison-d {
+  width: 410px;
+  height: 48px;
+  font-family: Roboto;
+  font-size: 16px;
+  line-height: 1.5;
+  text-align: left;
+  color: #000000;
+}
+
+.Beautiful-Series-Acr {
+  width: 450px;
+  height: 40px;
+  font-family: Aleo;
+  font-size: 30px;
+  font-weight: bold;
+  line-height: 1.33;
+  text-align: left;
+  color: #000000;
+}
+.Le-photographe-Akos {
+  width: 410px;
+  height: 48px;
+  font-family: Roboto;
+  font-size: 16px;
+  line-height: 1.5;
+  text-align: left;
+  color: #000000;
+}
+
+.Game-of-Thrones-Crys {
+  width: 450px;
+  height: 80px;
+  font-family: Aleo;
+  font-size: 30px;
+  font-weight: bold;
+  line-height: 1.33;
+  text-align: left;
+  color: #000000;
+}
+.Dans-cette-srie-de {
+  width: 410px;
+  height: 48px;
+  font-family: Roboto;
+  font-size: 16px;
+  line-height: 1.5;
+  text-align: left;
+  color: #000000;
+}
+
+.Colorful-Doors-of-Du {
+  width: 450px;
+  height: 80px;
+  font-family: Aleo;
+  font-size: 30px;
+  font-weight: bold;
+  line-height: 1.33;
+  text-align: left;
+  color: #000000;
+}
+.Passionn-par-lart {
+  width: 410px;
+  height: 48px;
+  font-family: Roboto;
+  font-size: 16px;
+  line-height: 1.5;
+  text-align: left;
+  color: #000000;
+}
+
+.Alexander-Semenov-Ex {
+  width: 450px;
+  height: 80px;
+  font-family: Aleo;
+  font-size: 30px;
+  font-weight: bold;
+  line-height: 1.33;
+  text-align: left;
+  color: #000000;
+}
+.Alexander-Semenov-es {
+  width: 410px;
+  height: 48px;
+  font-family: Roboto;
+  font-size: 16px;
+  line-height: 1.5;
+  text-align: left;
+  color: #000000;
+}
+
+.Ghostly-Floating-Ins {
+  width: 450px;
+  height: 80px;
+  font-family: Aleo;
+  font-size: 30px;
+  font-weight: bold;
+  line-height: 1.33;
+  text-align: left;
+  color: #000000;
+}
+.Edoardo-Tresoldi-exp {
+  width: 410px;
+  height: 48px;
+  font-family: Roboto;
+  font-size: 16px;
+  line-height: 1.5;
+  text-align: left;
+  color: #000000;
+}
+
+.Rectangle-5 {
+  width: 450px;
+  height: 165px;
+  background-color: #ffffff;
+}
+
+.btn_likes {
+  width: 24px;
+  height: 24px;
+  object-fit: contain;
+}
+.-likes {
+  height: 20px;
+  font-family: Roboto;
+  font-size: 17px;
+  font-weight: 500;
+  text-align: left;
+  margin-right: 10px;
+  color: rgba(0, 0, 0, 0.4);
+}
+.btn_comments {
+  width: 24px;
+  height: 24px;
+  object-fit: contain;
+}
+.-comments {
+  width: 105px;
+  height: 20px;
+  font-family: Roboto;
+  font-size: 17px;
+  font-weight: 500;
+  text-align: left;
+  color: rgba(0, 0, 0, 0.4);
+}
+
+.Rectangle-2 {
+  /*width: 1410px;*/
+  height: 60px;
+  border: solid 1px #000000;
+  margin-left: 5%
+}
+.load-more {
+  /*width: 150px;*/
+  height: 40px;
+  margin-top: 10px;
+  font-family: Aleo;
+  font-size: 20px;
+  font-weight: bold;
+  line-height: 2;
+  letter-spacing: 2.4px;
+  text-align: center;
+  color: #000000;
+  text-transform: uppercase;
+}
+
+.Rectangle-7 {
+  width: 1440px;
+  height: 1px;
+  background-color: #d8d8d8;
+  border: solid 1px rgba(0, 0, 0, 0.2);
+}
+
+.Rectangle-6 {
+  width: 1440px;
+  height: 60px;
+  background-color: #ffffff;
+  text-align: left;
+  padding-left: 15px;
+  bottom: 0px;
+}
+.Instagram {
+  width: 69px;
+  height: 18px;
+  font-family: Aleo;
+  font-size: 15px;
+  text-align: left;
+  color: rgba(0, 0, 0, 0.8);
+}
+.Facebook {
+  width: 65px;
+  height: 18px;
+  font-family: Aleo;
+  font-size: 15px;
+  text-align: left;
+  color: rgba(0, 0, 0, 0.8);
+}
+.Twitter {
+  width: 51px;
+  height: 18px;
+  font-family: Aleo;
+  font-size: 15px;
+  text-align: left;
+  color: rgba(0, 0, 0, 0.8);
+}
+.Terms-of-Service-and {
+  width: 195px;
+  height: 18px;
+  font-family: Aleo;
+  font-size: 15px;
+  text-align: left;
+  color: rgba(0, 0, 0, 0.8);
+}
+
+/* Desktop-comments*/
+
+.Rectangle-4 {
+  width: 1440px;
+  height: 2166px;
+  background-color: rgba(0, 0, 0, 0.6);
+  background-image: url(Desktop.png);
+}
+
+.Rectangle-8 {
+  width: 880px;
+  height: 789px;
+  position: absolute;
+  background-color: #ffffff;
+  box-shadow: 0 4px 12px 0 rgba(0, 0, 0, 0.6);
+  margin: 25%;
+}
+
+.Shape {
+  width: 20px;
+  height: 20px;
+  object-fit: contain;
+  background-color: #000000;
+  margin-left: 499px;
+}
+.Commentaires-10 {
+  width: 820px;
+  height: 20px;
+  font-family: Roboto;
+  font-size: 20px;
+  font-weight: bold;
+  line-height: 1;
+  text-align: left;
+  color: #000000;
+  margin-left: 20px;
+}
+.Shape2 {
+  width: 40px;
+  height: 40px;
+  float: left;
+  margin-left: 20px;
+  object-fit: contain;
+  background-color: rgba(0, 0, 0, 0.3);
+}
+.Rectangle-9 {
+  width: 760px;
+  height: 40px;
+  margin-left: 10%;
+  border: solid 1px rgba(0, 0, 0, 0.2);
+}
+.Laissez-votre-commen {
+  /*width: 500px;*/
+  height: 24px;
+  opacity: 0.3;
+  margin-top: 6px;
+  font-family: Roboto;
+  font-size: 20px;
+  font-style: italic;
+  line-height: 1.2;
+  text-align: left;
+  color: #000000;
+}
+.Rectangle-10 {
+  width: 200px;
+  height: 40px;
+  background-color: #000000;
+  margin: 10px;
+  margin-left: 650px;
+}
+.Send {
+  /*width: 36px;*/
+  /*height: 19px;*/
+  font-family: Aleo;
+  font-size: 16px;
+  font-weight: bold;
+  text-align: center;
+  color: #ffffff;
+  
+
+}
+.CeciEstUnPseudo {
+  width: 820px;
+  height: 20px;
+  font-family: Roboto;
+  font-size: 15px;
+  font-weight: bold;
+  line-height: 1.33;
+  text-align: left;
+  color: #000000;
+  margin-left: 20px;
+  
+}
+.Il-y-a-2-heures {
+  width: 820px;
+  height: 20px;
+  font-family: Roboto;
+  font-size: 15px;
+  line-height: 1.33;
+  text-align: left;
+  color: rgba(0, 0, 0, 0.6);
+  margin-left: 20px;
+}
+.Praesent-hendrerit-r {
+  width: 820px;
+  height: 40px;
+  font-family: Roboto;
+  font-size: 15px;
+  line-height: 1.33;
+  text-align: left;
+  color: #000000;
+  margin-left: 20px;
+}
+.Rectangle-11 {
+  width: 820px;
+  height: 40px;
+  border: solid 1px #000000;
+  margin: auto;
+}
+.Load-more {
+  /*width: 254.2px;*/
+  /*height: 19px;*/
+  margin-top: 10px;
+  font-family: Aleo;
+  font-size: 16px;
+  font-weight: bold;
+  text-align: center;
+  color: #000000;
+}
+.Image-comm {
+  width: 300px;
+  height: 226px;
+  margin: 20px;
+  float: left;
+  object-fit: contain;
+}
+
+.Stranger-Things-2-Am-comm {
+  /*width: 500px;*/
+  height: 80px;
+  font-family: Aleo;
+  font-size: 30px;
+  font-weight: bold;
+  line-height: 1.33;
+  text-align: left;
+  color: #000000;
+}
+.La-deuxime-saison-d-comm {
+  /*width: 500px;*/
+  height: 48px;
+  font-family: Roboto;
+  font-size: 16px;
+  line-height: 1.5;
+  text-align: left;
+  color: #000000;
+  padding-bottom: 50px;
+  
+}
+.Rectangle-7-comm {
+  width: 820px;
+  height: 1px;
+  margin-left: 20px;
+  background-color: #d8d8d8;
+  border: solid 1px rgba(0, 0, 0, 0.2);
+}
